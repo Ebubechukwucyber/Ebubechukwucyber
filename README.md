@@ -1,4 +1,4 @@
-# Ebubechukwu
+# Ebubechukwucyber
 My personal repository
 
 Hi there!👋🏽 I am an aspring fullstack web and software developer👨🏽‍💻. 
